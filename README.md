@@ -7,3 +7,6 @@ Every design will include:
 * Testbench.
 * Brief explanation.
 
+Please note that in order to simulate meta-stable states I used an uncertainty model. The model in use will be the same throughout the various synchronizers.
+The uncertainty model was created by one of my university teachers mr. Refael Gantz.
+
