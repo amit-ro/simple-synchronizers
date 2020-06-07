@@ -1,7 +1,9 @@
 # simple-synchronizers
-Here to will find designs of few simple sinchronizres and how they work. 
+Here you will find designs of a few simple sinchronizres and how they work. 
 
 The goal is to synchronize a single pulse from two different clock domains, the width of pulse is one clock cycle.
+
+There is at least 100 cycles between input pulses.
 
 Every design will include:
 * Block diagram.
